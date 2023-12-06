@@ -1,0 +1,6 @@
+display_led.c:10:6:display_LED_RED1	8	static
+display_led.c:16:6:display_LED_YELLOW1	8	static
+display_led.c:22:6:display_LED_GREEN1	8	static
+display_led.c:28:6:display_LED_RED2	8	static
+display_led.c:34:6:display_LED_YELLOW2	8	static
+display_led.c:40:6:display_LED_GREEN2	8	static

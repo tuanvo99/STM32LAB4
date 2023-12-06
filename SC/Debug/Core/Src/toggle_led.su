@@ -1,0 +1,6 @@
+toggle_led.c:10:6:toggle_LED_RED1	8	static
+toggle_led.c:14:6:toggle_LED_YELLOW1	8	static
+toggle_led.c:18:6:toggle_LED_GREEN1	8	static
+toggle_led.c:22:6:toggle_LED_RED2	8	static
+toggle_led.c:26:6:toggle_LED_YELLOW2	8	static
+toggle_led.c:30:6:toggle_LED_GREEN2	8	static
