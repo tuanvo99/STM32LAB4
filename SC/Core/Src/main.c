@@ -119,11 +119,11 @@ int main(void)
 
    SCH_Add_Task(ledred1test, 1000, 2000);
 
-   SCH_Add_Task(ledred2on, 6000, 0);
+   SCH_Add_Task(ledred2on, 6000, 0);	//one shot
 
    SCH_Add_Task(ledyellow1test, 3000, 2000);
 
-   SCH_Add_Task(ledred2off, 8000, 0);
+   SCH_Add_Task(ledred2off, 8000, 0);	//one shot
 
    SCH_Add_Task(ledgreen1test, 5000, 2000);
   while (1)
